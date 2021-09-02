@@ -9,3 +9,4 @@ Since the dataset and the jupyter notebook code files are way over 25MB they hav
 ### Streamlit GUI for the project can be found in the Stock-GUI-Streamlit folder
 This app has been deployed on streamlit. To view the app check the link below
 
+https://share.streamlit.io/deepthisudharsan/higgs-boson-dl-project1-tmlc/main/Higgs-Boson-Streamlit/higgs_boson_DL.py
