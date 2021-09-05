@@ -15,7 +15,7 @@ All the package requirements along with the versions have been mentioned in the 
 
 ## How to run?
 
-To run the app, in the anaconda prompt, go to the location where the stock_gui.py file is using the cd command and then run the following line:
+To run the app, in the anaconda prompt, go to the location where the higgs_boson_DL.py file is using the cd command and then run the following line:
 
 ```
 streamlit run higgs_boson_DL.py
